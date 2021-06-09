@@ -8,3 +8,4 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git commit](./Commands/Commit.md)
 - [git remote](./Commands/Remote.md)
 - [get push](./commands/PUSH.md)
+- [git pull](./commands/pull.md)
